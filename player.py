@@ -1,2 +1,3 @@
 class Player:
-    pass
+    def attack(self):
+        print("Player Attacks!")
