@@ -5,3 +5,4 @@ from enemy import Enemy
 if __name__ == '__main__':
     p = Player()
     print("Game Started!")
+    print("Welcome to the game")
