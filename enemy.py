@@ -1,2 +1,3 @@
 class Enemy:
-    pass
+    def attack(self):
+        print("Enemy attacks!")
