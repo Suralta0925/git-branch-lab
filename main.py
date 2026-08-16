@@ -1,8 +1,9 @@
-from player import Player
-from enemy import Enemy
-
-# Press the green button in the gutter to run the script.
 if __name__ == '__main__':
-    p = Player()
-    print("Game Started!")
-    print("Welcome to the game")
+    #TODO: create 5 ally heroes
+    # with HP and damage attributes
+
+
+
+    #TODO: After that, create 5 enemy heroes with both attributes
+    pass
+
